@@ -1,0 +1,12 @@
+class CarDamageReporter:
+    def __init__(self):
+        # You can add additional initialization logic here
+        pass
+
+    def generate_report(self, is_damaged, damage_probability):
+        if is_damaged:
+            report = f"The car is damaged with a probability of {damage_probability:.2%}."
+        else:
+            report = f"The car is not damaged with a probability of {damage_probability:.2%}."
+
+        return report
