@@ -1,1 +1,5 @@
 Employees/
+  Artyem_report.docx
+  Asilbek_offer.docx
+  JonY_offer.docx
+.docx
